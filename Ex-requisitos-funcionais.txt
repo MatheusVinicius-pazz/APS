@@ -1,4 +1,4 @@
-Lizo - Sistema de gerenciamento financeiro.
+Lizu - Sistema de gerenciamento financeiro.
 
 1-Como usuário comum eu gostaria de armazenar minhas despesas 
 
