@@ -20,7 +20,7 @@ pessoas que emprestei o cartão de crédito.
 
 4 - Como empresa eu quero ter acesso as informações dos meus funcionários e seus rendimentos
 
-5 - Como empresa eu gostaria de ter acesso mensal detalhado dos lucros e prejuízos  da minha empresa.
+5 - Como empresa eu gostaria de ter acesso a um relatório mensal detalhado dos lucros e prejuízos da minha empresa.
 
 
 
