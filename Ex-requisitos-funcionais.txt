@@ -22,5 +22,5 @@ pessoas que emprestei o cartão de crédito.
 
 5 - Como empresa eu gostaria de ter acesso a um relatório mensal detalhado dos lucros e prejuízos da minha empresa.
 
-
+ 6-Como administrador do sistema, eu quero poder adicionar novos clientes   
 
