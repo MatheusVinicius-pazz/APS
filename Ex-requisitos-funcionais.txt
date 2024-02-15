@@ -14,12 +14,15 @@ Lizo - Sistema de gerenciamento financeiro.
 pessoas que emprestei o cartão de crédito.
 
 
-1-Como empresa eu gostaria que eu tivesse uma lista de todos clientes devedores
+1- Como empresa eu gostaria que eu tivesse uma lista de todos clientes devedores
 
 2- Como empresa eu gostaria  de saber como está o saldo do meu cliente XYZ
 
 3- Como empresa eu gostaria  de enviar um lembrete para o cliente ABC sobre seu pagamento atrasado
 
+4 - Como empresa eu quero ter acesso as informações dos meus funcionários e seus rendimentos
+
+5 - Como empresa eu gostaria de ter acesso mensal detalhado dos lucros e prejuízos  da minha empresa.
 
 
 
