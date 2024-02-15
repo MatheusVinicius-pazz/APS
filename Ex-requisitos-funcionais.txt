@@ -6,17 +6,15 @@ Lizo - Sistema de gerenciamento financeiro.
 
 3-Como usuário comum eu gostaria acessar dicas de gestão financeira
 
-4-Como usuário comum eu gostaria ter acesso a uma calculadora de juros
+4-Como usuário comum eu gostaria ter acesso a uma calculadora financeira
 
-5-Como  usuário comum eu gostaria ter acesso a um conversor de moedas
-
-6- Como usuário comum eu gostaria que o app separa-se depesas das 
+5- Como usuário comum eu gostaria que o app separa-se depesas das 
 pessoas que emprestei o cartão de crédito.
 
 
 1- Como empresa eu gostaria que eu tivesse uma lista de todos clientes devedores
 
-2- Como empresa eu gostaria  de saber como está o saldo do meu cliente XYZ
+2- Como empresa eu gostaria  de saber como está o saldo dos meus devedores
 
 3- Como empresa eu gostaria  de enviar um lembrete para o cliente ABC sobre seu pagamento atrasado
 
