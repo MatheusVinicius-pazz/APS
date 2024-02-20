@@ -1,3 +1,10 @@
+
+Requisitos Funcionais {funções que o sistema nos oferece}
+Requisitos não funcionais {Segurança, desempenho, usabilidade, mult So}
+Ator: Utilizador 
+
+
+
 Lizu - Sistema de gerenciamento financeiro.
 
 1-Como usuário comum eu gostaria de armazenar minhas despesas 
