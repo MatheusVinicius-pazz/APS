@@ -17,4 +17,3 @@ Eu como atendente quero um chat para comunicação com os alunos
 Eu como antendente quero modificar e acessar os dados dos usuários 
 Eu como atendente quero um cadastro de avisos 
 Eu como atendente quero ter acesso a um quadro de escala dos personal treinrs
-qlqr coisa
